@@ -26,7 +26,7 @@ ABM account research, outreach personalization, competitor attack assessments, a
 Sentiment analysis, personalized product updates, and onboarding intelligence. Tracks buyer signals and maps them to relevant engagement moments, identifying where prospects are in their journey and what angle is most likely to land.
 
 ![Decision Intelligence](https://img.shields.io/badge/Decision_Intelligence-1e40af?style=for-the-badge)
-Demand gen simulation engines, competitive intelligence orchestration, workflow evaluation frameworks, and cross-reference tools. Systems that present options with explicit tradeoffs and confidence intervals rather than prescribing one answer, enabling leadership to choose strategically.
+Demand gen simulation engines, competitive intelligence orchestration, instant analytics dashboards, workflow evaluation frameworks, and cross-reference tools. Systems that present options with explicit tradeoffs and confidence intervals rather than prescribing one answer, enabling leadership to choose strategically.
 
 ![Content Intelligence](https://img.shields.io/badge/Content_Intelligence-1e40af?style=for-the-badge)
 Content audits that assess coverage gaps, competitive alignment, and asset reuse opportunities across existing libraries. Surfaces what's missing, what's redundant, and where to focus production investment.
@@ -44,15 +44,18 @@ Personal knowledge capture pipelines and a multi-cadence GTM intelligence platfo
 
 ## By the Numbers
 
-| Metric                       | Value                                                        |
-| ---------------------------- | ------------------------------------------------------------ |
-| AI use cases developed       | 30                                                           |
-| Pending production approval  | 7                                                            |
-| In active team use           | ~10                                                          |
-| Enterprise environment       | Fortune Global 500 semiconductor company (~30K employees)    |
-| Manual hours saved weekly    | 10+ (current); 25+ projected at scale                        |
-| Enterprise integrations      | Salesforce, Eloqua, Microsoft Teams, SharePoint, Microsoft Loop, Zoom, ZoomInfo |
-| Additional tool integrations | Apollo, Clay, HeyReach, HubSpot, Gmail, Google Calendar, Slack, Notion, + more |
+| Metric                            | Value                                                        |
+| --------------------------------- | ------------------------------------------------------------ |
+| AI use cases developed            | 30                                                           |
+| Pending production approval       | 7                                                            |
+| In active team use                | ~10                                                          |
+| Enterprise environment            | Fortune Global 500 semiconductor company (~30K employees)    |
+| Manual hours saved weekly         | 10+ (current); 25+ projected at scale                        |
+| ABM account research time savings | 15 hrs (manual) to ~1 hr (automated), a 93% reduction        |
+| Enterprise integrations           | Salesforce, Eloqua, Microsoft Teams, SharePoint, Microsoft Loop, Zoom, ZoomInfo |
+| Additional tool integrations      | Apollo, Clay, HeyReach, HubSpot, Gmail, Google Calendar, Slack, Notion, + more |
+
+Most use cases represent net new capability that wasn't feasible at scale manually, not just automation of existing workflows.
 
 ---
 
