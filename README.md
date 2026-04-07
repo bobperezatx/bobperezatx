@@ -1,16 +1,15 @@
 # Bob Perez
-
 **Enterprise GTM Leader | AI-Powered Systems Architect**
 
 ---
 
 ## About
 
-18 years leading marketing, go-to-market, revenue operations, and sales in the electronic components and semiconductor industry, now designing and deploying AI-powered GTM infrastructure at Fortune Global 500 scale.
+18 years leading marketing, go-to-market, revenue operations, and sales in the electronic components and semiconductor industry, now designing and deploying AI-powered GTM infrastructure at enterprise scale.
 
 Production AI systems that save time, reduce costs, and drive revenue, replacing manual workflows with infrastructure that compounds over time.
 
-30 AI use cases designed, built, and piloted inside a Fortune Global 500 semiconductor company (~30K employees), spanning account intelligence, campaign intelligence, buyer intelligence, content intelligence, content production, decision intelligence, GTM operations, and productivity. Every use case is designed for business impact: identifying the right problem, architecting the AI-powered solution, and driving adoption through cross-functional collaboration with IT, governance, and automation engineering teams.
+30 AI use cases designed, built, and piloted inside a $12B global technology company (~30K employees), spanning account intelligence, campaign intelligence, buyer intelligence, content intelligence, content production, decision intelligence, GTM operations, and productivity. Every use case is designed for business impact: identifying the right problem, architecting the AI-powered solution, and driving adoption through cross-functional collaboration with IT, governance, and automation engineering teams.
 
 ---
 
@@ -44,16 +43,16 @@ Personal knowledge capture pipelines and a multi-cadence GTM intelligence platfo
 
 ## By the Numbers
 
-| Metric                            | Value                                                        |
-| --------------------------------- | ------------------------------------------------------------ |
-| AI use cases developed            | 30                                                           |
-| Pending production approval       | 7                                                            |
-| In active team use                | ~10                                                          |
-| Enterprise environment            | Fortune Global 500 semiconductor company (~30K employees)    |
-| Manual hours saved weekly         | 10+ (current); 25+ projected at scale                        |
-| ABM account research time savings | 15 hrs (manual) to ~1 hr (automated), a 93% reduction        |
-| Enterprise integrations           | Salesforce, Eloqua, Microsoft Teams, SharePoint, Microsoft Loop, Zoom, ZoomInfo |
-| Additional tool integrations      | Apollo, Clay, HeyReach, HubSpot, Gmail, Google Calendar, Slack, Notion, + more |
+| Metric | Value |
+|--------|-------|
+| AI use cases developed | 30 |
+| Pending production approval | 7 |
+| In active team use | ~10 |
+| Enterprise environment | $12B global technology company (~30K employees) |
+| Manual hours saved weekly | 10+ (current); 25+ projected at scale |
+| ABM account research time savings | 15 hrs (manual) to ~1 hr (automated), a 93% reduction |
+| Enterprise integrations | Salesforce, Eloqua, Microsoft Teams, SharePoint, Microsoft Loop, Zoom, ZoomInfo |
+| Additional tool integrations | Apollo, Clay, HeyReach, HubSpot, Gmail, Google Calendar, Slack, Notion, + more |
 
 Most use cases represent net new capability that wasn't feasible at scale manually, not just automation of existing workflows.
 
@@ -93,7 +92,7 @@ Most use cases represent net new capability that wasn't feasible at scale manual
 
 ## Currently
 
-- **AI Enablement Lead & ABM architect** at a Fortune Global 500 semiconductor company, designing and deploying production GTM intelligence systems
+- **AI Enablement Lead & ABM architect** at a $12B global technology company, designing and deploying production GTM intelligence systems
 - **Open-sourcing reusable GTM automation frameworks** for enterprises building AI-powered demand and account strategies *(coming soon)*
 - **Ask me about:** AI-powered ABM, competitive intelligence systems, enterprise AI adoption, demand gen automation
 
