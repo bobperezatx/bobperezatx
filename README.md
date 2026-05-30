@@ -5,11 +5,11 @@
 
 ## About
 
-18 years leading marketing, go-to-market, revenue operations, and sales in the electronic components and semiconductor industry, now designing and deploying AI-powered GTM infrastructure at enterprise scale.
+20+ years leading marketing, go-to-market, revenue operations, and sales in the electronic components and semiconductor industry, now designing and deploying AI-powered GTM infrastructure at enterprise scale.
 
 Production AI systems that save time, reduce costs, and drive revenue, replacing manual workflows with infrastructure that compounds over time.
 
-30 AI use cases designed, built, and piloted inside a $12B global technology company (~30K employees), spanning account intelligence, campaign intelligence, buyer intelligence, content intelligence, content production, decision intelligence, GTM operations, and productivity. Every use case is designed for business impact: identifying the right problem, architecting the AI-powered solution, and driving adoption through cross-functional collaboration with IT, governance, and automation engineering teams.
+45+ AI use cases designed, built, and piloted inside a $12B global technology company (~30K employees), spanning account intelligence, campaign intelligence, buyer intelligence, content intelligence, content production, decision intelligence, GTM operations, and productivity. Every use case is designed for business impact: identifying the right problem, architecting the AI-powered solution, and driving adoption through cross-functional collaboration with IT, governance, and automation engineering teams.
 
 ---
 
